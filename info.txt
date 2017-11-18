@@ -1,3 +1,3 @@
 #enable=true;
-#false;
+4
 https://raw.githubusercontent.com/bricktmfly/bricktm/master/diaosinanshi.apk
